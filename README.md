@@ -16,15 +16,14 @@ I have experience working in both private companies and as a freelancer.
 
 I've spent most of my time as a developer working with:
 
-- <img src="https://img.shields.io/badge/Python-green?labelColor=black" alt="Python"> <img src="https://img.shields.io/badge/-Django -- Flask -- PyQt -- Unittests -- Typing-grey" alt="Django, Flask, PyQt, Unittests, Typing">
-- <img src="https://img.shields.io/badge/JavaScript-green?labelColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-TypeScript -- Express -- Next.js -- Mongoose-grey" alt="TypeScript, Next.js, Mongoose">
+- <img src="https://img.shields.io/badge/JavaScript-green?labelColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-TypeScript -- Express -- Next.js -grey" alt="TypeScript, Next.js">
 - <img src="https://img.shields.io/badge/Frontend-green?labelColor=black" alt="Frontend"> <img src="https://img.shields.io/badge/-Typescript -- React -- Vue -- Tailwind CSS -- Vite -- Webpack -grey" alt="React, Vue, Tailwind CSS, Flutter">
 - <img src="https://img.shields.io/badge/Golang-green?labelColor=black" alt="Golang"> <img src="https://img.shields.io/badge/-Gin -- Echo -- Gorm -- Goose -- Fyne -grey" alt="Gin, Echo, gorm, Goose">
-- <img src="https://img.shields.io/badge/C-green?labelColor=black" alt="C"> <img src="https://img.shields.io/badge/-POSIX C -- libuv -- MCU[STM32, Arduino, ESP32] -grey" alt="Posix c, libuv, mcu">
+- <img src="https://img.shields.io/badge/C-green?labelColor=black" alt="C"> <img src="https://img.shields.io/badge/-POSIX C -- libuv -- MCU -grey" alt="Posix c, libuv, mcu">
 
 I also have experience with:
 
-- <img src="https://img.shields.io/badge/Infrastructure-green?labelColor=black" alt="Infrastructure"> <img src="https://img.shields.io/badge/-Docker -- Microservices -- Unix Shell -- GCP -- Heroku -- CI/CD Pipelines-grey" alt="Docker, Microservices, Unix Shell, GCP, Heroku">
+- <img src="https://img.shields.io/badge/Infrastructure-green?labelColor=black" alt="Infrastructure"> <img src="https://img.shields.io/badge/-Docker -- Unix Shell -- Ansible-grey" alt="Docker, ansible, Unix Shell, GCP">
 - <img src="https://img.shields.io/badge/Persistence-green?labelColor=black" alt="Persistence"> <img src="https://img.shields.io/badge/-PostgreSQL -- MongoDB-grey" alt="PostgreSQL, MongoDB">
 - <img src="https://img.shields.io/badge/Lua-green?labelColor=black" alt="lua"> <img src="https://img.shields.io/badge/-luarocks -- neovim -grey" alt="lua, luarocks">
 - <img src="https://img.shields.io/badge/Dart-green?labelColor=black" alt="dart"> <img src="https://img.shields.io/badge/-Flutter -grey" alt="lua, luarocks">
@@ -41,10 +40,6 @@ If you appreciate my projects, consider fueling my development journey:
 has a message for you...
 
 <br>
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
-</div>
 
 <br>
 
